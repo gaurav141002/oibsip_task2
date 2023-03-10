@@ -1,0 +1,127 @@
+.heading{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+.head{
+    
+    justify-content: center;
+    text-align: center;
+    margin-top: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 65px;
+
+}
+
+.tablehead{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.wikitable,th,td{
+    margin-right: 100px;
+    margin-left: 300px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contentimg{
+    position: absolute;
+    height: 300px;
+
+}
+
+
+.top-container{
+    color: #fbf9da;
+    background-color: #252524;
+    padding-bottom: 30px;
+    padding-top: 0%;
+    
+}
+
+
+.headImg{
+    height : 200px;
+    width : 200px;
+    border-radius: 70%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    box-shadow: 5px 5px 12px rgb(67, 66, 66);
+}
+
+
+.headImg:hover{
+    height : 300px;
+    width : 400px;
+    border-radius: 30%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    transition: 1s;
+}
+
+.col{
+    display: contents;
+    padding-left: 300px;
+    padding-right: 400px;
+
+}
+
+.gallery{
+    height: 250px;
+    width : 280px;
+}
+
+.row{
+    padding-left: 350px;
+    padding-right: 250px;
+}
+
+.footer-text{
+    text-align: center;
+    color: white;
+    /* background-color: aliceblue; */
+    font-size: 15px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* padding-bottom: 100px; */
+}
+
+.back{
+    background-color: #252524;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#sec2{
+    color:white;
+    background-color: #252524;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#section5{
+    color:white;
+    background-color: #252524;
+    padding-top: 10px;
+    padding-bottom: 20px; 
+}
